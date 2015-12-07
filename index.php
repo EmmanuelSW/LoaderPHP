@@ -27,6 +27,7 @@
 	<meta charset="UTF-8">
 	<title>Projects</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<style>
 		.folder {
@@ -104,6 +105,7 @@
 			margin-top: 30px;
 		}
 		h5 {
+		  font-family: 'Lato', sans-serif;
 		  color: #777;
 		  letter-spacing: 0.125em;
 		  line-height: 1.5em;
