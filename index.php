@@ -25,7 +25,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>ProjectSW</title>
+	<title>Projects</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<style>
